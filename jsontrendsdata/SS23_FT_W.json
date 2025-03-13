@@ -1,0 +1,80 @@
+{
+    "trends": {
+      "colors": [
+        {"name": "White", "runwayShare": 16, "variation": -1, "magnitude": "MASSIVE"},
+        {"name": "Pearl", "runwayShare": 12, "variation": -0.5, "magnitude": "MASSIVE"},
+        {"name": "Grey", "runwayShare": 4, "variation": -7, "magnitude": "BIG"},
+        {"name": "Black", "runwayShare": 36, "variation": 1, "magnitude": "MASSIVE"},
+        {"name": "Cobalt Blue", "runwayShare": 2, "variation": -4, "magnitude": "BIG"},
+        {"name": "Metallic", "runwayShare": 1, "variation": -6, "magnitude": "MEDIUM"},
+        {"name": "Hot Pink", "runwayShare": 1, "variation": 3, "magnitude": "MEDIUM"},
+        {"name": "Bubblegum Pink", "runwayShare": 1.5, "variation": -5, "magnitude": "BIG"},
+        {"name": "Lavender", "runwayShare": 1.6, "variation": 2, "magnitude": "BIG"},
+        {"name": "Green", "runwayShare": 2, "variation": 1, "magnitude": "BIG"},
+        {"name": "Tangerine", "runwayShare": 1, "variation": 3, "magnitude": "BIG"},
+        {"name": "Vanilla Yellow", "runwayShare": 1, "variation": 0.5, "magnitude": "MEDIUM"},
+        {"name": "Ruby Red", "runwayShare": 0.4, "variation": 3, "magnitude": "MEDIUM"},
+        {"name": "Sage Green", "runwayShare": 0.7, "variation": -1, "magnitude": "MASSIVE"},
+        {"name": "Chocolate Brown", "runwayShare": null, "variation": -1, "magnitude": "MEDIUM"}
+      ],
+      "materials": [
+        {"name": "Linen", "runwayShare": 0.4, "variation": 11, "magnitude": "MEDIUM"},
+        {"name": "Knit", "runwayShare": 7, "variation": -5, "magnitude": "BIG"},
+        {"name": "Leather", "runwayShare": 9, "variation": -3, "magnitude": "BIG"},
+        {"name": "Denim", "runwayShare": 30, "variation": -3, "magnitude": "MASSIVE"},
+        {"name": "See-through", "runwayShare": 9, "variation": 3, "magnitude": "BIG"},
+        {"name": "Satin", "runwayShare": 5, "variation": 4, "magnitude": "BIG"},
+        {"name": "Sequins", "runwayShare": 2, "variation": 1, "magnitude": "MEDIUM"},
+        {"name": "Crochet", "runwayShare": 1, "variation": 11, "magnitude": "SMALL"},
+        {"name": "Open Knit", "runwayShare": 0.2, "variation": -2, "magnitude": "SMALL"},
+        {"name": "Suede", "runwayShare": 0.5, "variation": -0.5, "magnitude": "SMALL"},
+        {"name": "Feathers", "runwayShare": 2, "variation": 8, "magnitude": "MEDIUM"}
+      ],
+      "patterns": [
+        {"name": "Plain", "runwayShare": 82, "variation": -0.5, "magnitude": "MASSIVE"},
+        {"name": "Graphic Prints", "runwayShare": 11, "variation": null, "magnitude": null},
+        {"name": "Dyed", "runwayShare": 1, "variation": -5, "magnitude": "SMALL"},
+        {"name": "Big Dots", "runwayShare": 7, "variation": -3, "magnitude": "BIG"},
+        {"name": "Vertical Stripes", "runwayShare": 0.7, "variation": 4, "magnitude": "SMALL"},
+        {"name": "Floral", "runwayShare": 20, "variation": -5, "magnitude": "BIG"},
+        {"name": "Monogram", "runwayShare": 7, "variation": -3, "magnitude": "BIG"},
+        {"name": "Snake Print", "runwayShare": 1, "variation": -10, "magnitude": "SMALL"},
+        {"name": "Pinstripes", "runwayShare": 3, "variation": 0.5, "magnitude": "MEDIUM"},
+        {"name": "Zebra Print", "runwayShare": 0.3, "variation": 14, "magnitude": null},
+        {"name": "Leopard Print", "runwayShare": 1.12, "variation": -7, "magnitude": null}
+      ],
+      "silhouettes": [
+        {"name": "A-Line Dress", "runwayShare": null, "variation": -3, "magnitude": "MASSIVE"},
+        {"name": "Midi Skirt", "runwayShare": null, "variation": -3, "magnitude": "BIG"},
+        {"name": "Blouse", "runwayShare": null, "variation": 0, "magnitude": "MASSIVE"},
+        {"name": "Cropped Top", "runwayShare": null, "variation": 0, "magnitude": "MASSIVE"},
+        {"name": "Low Rise Pants", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Extra Long Sleeves", "runwayShare": null, "variation": 1, "magnitude": "SMALL"},
+        {"name": "Deep V-Neck", "runwayShare": 9, "variation": null, "magnitude": null},
+        {"name": "Slitted Skirts", "runwayShare": 17, "variation": null, "magnitude": null},
+        {"name": "Flare Pants", "runwayShare": 8, "variation": null, "magnitude": null},
+        {"name": "Bodycon Midi Dresses", "runwayShare": 8, "variation": null, "magnitude": null},
+        {"name": "Thong Sandals", "runwayShare": null, "variation": 0.5, "magnitude": "MEDIUM"}
+      ],
+      "streetStylePenetration": [
+        {"name": "Pink", "penetrationRate": 3.5, "variation": -1, "magnitude": "BIG"},
+        {"name": "Sheer", "penetrationRate": 5, "variation": 3, "magnitude": "BIG"},
+        {"name": "Vertical Stripes", "penetrationRate": 0.7, "variation": 4, "magnitude": "SMALL"}
+      ],
+      "trendBehavior": {
+        "consistent_risers": ["Cropped Top", "Thong Sandals", "Zebra Print", "Pastel Shoes"],
+        "comebacks": ["Sequins", "Light Denim Mini Skirts", "Animal Midi Dress", "Yellow Orange Tops"],
+        "fluctuating": ["Fluid Midi Skirt", "Blouse", "Extra Long Sleeves", "Lilac", "Mary Janes", "Metallic", "Grey Denim Outerwear"],
+        "stable": ["Light Denim Tops"],
+        "watch_out": ["Calf Tie Sandals", "Animal Pants", "Orange red", "Floral Blouse", "Pastel Tops"],
+        "consistent_decliners": ["A-Line Dress", "Denim", "Chocolate Brown", "Dark Denim", "Leopard Print", "Floral Dresses"]
+      },
+      "themes": [
+        "Raw Sartorial",
+        "Youth in Translation",
+        "Dystopia Gateway",
+        "Sleepover Chic",
+        "Minimal Elegance"
+      ]
+    }
+  }

@@ -1,0 +1,232 @@
+{
+    "trends": {
+      "colors": [
+        {"name": "Scarlet Red", "runwayShare": null, "variation": 39, "magnitude": "MEDIUM", "behavior": "Consistent Riser", "growthNext12Months": 5, "fallVsFall": 8},
+        {"name": "Crimson Red", "runwayShare": null, "variation": 16, "magnitude": "BIG", "behavior": "Consistent Riser", "growthNext12Months": 9, "fallVsFall": 16},
+        {"name": "Red", "runwayShare": 22, "variation": 10, "magnitude": "BIG", "behavior": null, "growthNext12Months": null, "fallVsFall": 10},
+        {"name": "Burgundy", "runwayShare": 8, "variation": 8, "magnitude": "BIG", "behavior": null, "growthNext12Months": null, "fallVsFall": 8},
+        {"name": "Violet", "runwayShare": 7, "variation": -3, "magnitude": "SMALL", "behavior": null, "growthNext12Months": null, "fallVsFall": -3},
+        {"name": "Black", "runwayShare": 29, "variation": 6, "magnitude": "MASSIVE", "behavior": null, "growthNext12Months": null, "fallVsFall": 6},
+        {"name": "Mint Green", "runwayShare": 27, "variation": -11, "magnitude": "MEDIUM", "behavior": null, "growthNext12Months": null, "fallVsFall": -11},
+        {"name": "Khaki", "runwayShare": 29, "variation": 4, "magnitude": "MASSIVE", "behavior": null, "growthNext12Months": null, "fallVsFall": 4},
+        {"name": "Cream", "runwayShare": 18, "variation": 0.3, "magnitude": "BIG", "behavior": null, "growthNext12Months": null, "fallVsFall": 0.3},
+        {"name": "Metallic Tones", "runwayShare": 4, "variation": 11, "magnitude": "MEDIUM", "behavior": null, "growthNext12Months": null, "fallVsFall": 11},
+        {"name": "Off-White", "runwayShare": null, "variation": 4, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": 4}
+      ],
+      "materials": [
+        {"name": "Vinyl", "runwayShare": null, "variation": 24, "magnitude": "MEDIUM", "behavior": "Stable", "growthNext12Months": -0.8, "fallVsFall": 1},
+        {"name": "See Through", "runwayShare": 11, "variation": -3, "magnitude": "BIG", "behavior": null, "growthNext12Months": null, "fallVsFall": -3},
+        {"name": "Brocade", "runwayShare": 1.4, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null},
+        {"name": "Lustrous", "runwayShare": 7, "variation": 11, "magnitude": "MEDIUM", "behavior": null, "growthNext12Months": null, "fallVsFall": 11},
+        {"name": "Tweed", "runwayShare": 3, "variation": 1, "magnitude": "SMALL", "behavior": null, "growthNext12Months": null, "fallVsFall": 1},
+        {"name": "Satin", "runwayShare": 3, "variation": 3, "magnitude": "BIG", "behavior": null, "growthNext12Months": null, "fallVsFall": 3},
+        {"name": "Cable Knit", "runwayShare": 8, "variation": 56, "magnitude": "SMALL", "behavior": "Fluctuating", "growthNext12Months": 13, "fallVsFall": 56},
+        {"name": "Crochet", "runwayShare": 0.4, "variation": -27, "magnitude": "SMALL", "behavior": null, "growthNext12Months": null, "fallVsFall": -27},
+        {"name": "Butter Leather", "runwayShare": 18, "variation": 20, "magnitude": "SMALL", "behavior": null, "growthNext12Months": null, "fallVsFall": 20},
+        {"name": "Mohair", "runwayShare": 27, "variation": -11, "magnitude": "MEDIUM", "behavior": null, "growthNext12Months": null, "fallVsFall": -11},
+        {"name": "Leather", "runwayShare": null, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null},
+        {"name": "Patent Leather", "runwayShare": null, "variation": 19, "magnitude": null, "behavior": "Consistent Riser", "growthNext12Months": null, "fallVsFall": 19},
+        {"name": "Fur", "runwayShare": null, "variation": 5, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": 5}
+      ],
+      "prints": [
+        {"name": "Stripes", "runwayShare": null, "variation": 20, "magnitude": "BIG", "behavior": "Consistent Riser", "growthNext12Months": 6, "fallVsFall": 7},
+        {"name": "Snake", "runwayShare": null, "variation": 40, "magnitude": "SMALL", "behavior": "Come Back", "growthNext12Months": 38, "fallVsFall": 40},
+        {"name": "Abstract", "runwayShare": 6.2, "variation": null, "magnitude": "BIG", "behavior": null, "growthNext12Months": null, "fallVsFall": -11},
+        {"name": "Floral", "runwayShare": 11, "variation": -11, "magnitude": "BIG", "behavior": null, "growthNext12Months": null, "fallVsFall": -11},
+        {"name": "Plain", "runwayShare": 0.4, "variation": -3, "magnitude": "BIG", "behavior": null, "growthNext12Months": null, "fallVsFall": -3},
+        {"name": "Checked", "runwayShare": 18, "variation": 0.8, "magnitude": "MASSIVE", "behavior": null, "growthNext12Months": null, "fallVsFall": 0.8},
+        {"name": "Leopard", "runwayShare": null, "variation": 10, "magnitude": "MEDIUM", "behavior": "Come Back", "growthNext12Months": null, "fallVsFall": 10},
+        {"name": "Marled", "runwayShare": null, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null},
+        {"name": "Pinstripes", "runwayShare": null, "variation": -5, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": -5}
+      ],
+      "silhouettes": [
+        {"name": "Lavallière Collar Blouse", "runwayShare": null, "variation": 6, "magnitude": "MEDIUM", "behavior": "Consistent Riser", "growthNext12Months": null, "fallVsFall": 6},
+        {"name": "Strapless Dresses", "runwayShare": null, "variation": -4, "magnitude": "MASSIVE", "behavior": "Consistent Riser", "growthNext12Months": null, "fallVsFall": -4},
+        {"name": "Puff Sleeve Dresses", "runwayShare": null, "variation": -18, "magnitude": "BIG", "behavior": "Consistent Decliner", "growthNext12Months": null, "fallVsFall": -18},
+        {"name": "Midi Skirts", "runwayShare": null, "variation": 4, "magnitude": "MASSIVE", "behavior": "Rising Star", "growthNext12Months": null, "fallVsFall": 4},
+        {"name": "Fitted Jackets", "runwayShare": null, "variation": 11, "magnitude": "BIG", "behavior": "Come Back", "growthNext12Months": null, "fallVsFall": 11},
+        {"name": "Matching Sets", "runwayShare": 11.7, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null},
+        {"name": "Knitted Dress", "runwayShare": null, "variation": 1, "magnitude": "BIG", "behavior": "Stable", "growthNext12Months": null, "fallVsFall": 1},
+        {"name": "Oversized Cardigans", "runwayShare": null, "variation": 7, "magnitude": "BIG", "behavior": "Fluctuating", "growthNext12Months": null, "fallVsFall": 7},
+        {"name": "Ovoid Coats", "runwayShare": null, "variation": 4, "magnitude": "MASSIVE", "behavior": "Watch Out", "growthNext12Months": null, "fallVsFall": 4},
+        {"name": "Bodycon Mini Dresses", "runwayShare": null, "variation": -4, "magnitude": "MASSIVE", "behavior": null, "growthNext12Months": null, "fallVsFall": -4},
+        {"name": "Off-Shoulder Dresses", "runwayShare": null, "variation": 11, "magnitude": "MASSIVE", "behavior": "Consistent Riser", "growthNext12Months": null, "fallVsFall": 11},
+        {"name": "Leather Skirts", "runwayShare": null, "variation": 5, "magnitude": "BIG", "behavior": "Consistent Decliner", "growthNext12Months": null, "fallVsFall": 5}
+      ],
+      "accessories": [
+        {"name": "Headbands", "runwayShare": 14.5, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null},
+        {"name": "Pouch Bags", "runwayShare": 8, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null},
+        {"name": "Embellished Sneakers", "runwayShare": 23.6, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null},
+        {"name": "Top Handle Bags", "runwayShare": 42, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null},
+        {"name": "Pointy Toe Pumps", "runwayShare": null, "variation": 9, "magnitude": "MASSIVE", "behavior": "Consistent Riser", "growthNext12Months": null, "fallVsFall": 9},
+        {"name": "Round Toe Mary Janes", "runwayShare": null, "variation": 1, "magnitude": "MEDIUM", "behavior": "Consistent Riser", "growthNext12Months": null, "fallVsFall": 1},
+        {"name": "Maxi Scarves", "runwayShare": 25, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null},
+        {"name": "Fluffy Shoes", "runwayShare": 2.9, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null},
+        {"name": "Swimmer Hats", "runwayShare": 18.3, "variation": null, "magnitude": null, "behavior": null, "growthNext12Months": null, "fallVsFall": null}
+      ],
+      "designs": [
+        {"name": "Colorblock", "runwayShare": 71, "variation": 17, "magnitude": "MEDIUM", "behavior": null, "growthNext12Months": null, "fallVsFall": 17},
+        {"name": "Padded", "runwayShare": 71, "variation": -6, "magnitude": "MEDIUM", "behavior": null, "growthNext12Months": null, "fallVsFall": -6}
+      ],
+      "trendBehavior": {
+        "consistent_risers": [
+          {"name": "Scarlet Red", "fallVsFall": 8, "growthNext12Months": 5},
+          {"name": "Stripes", "fallVsFall": 7, "growthNext12Months": 6},
+          {"name": "Crimson Red", "fallVsFall": 16, "growthNext12Months": 9},
+          {"name": "Lavallière Collar Blouse", "fallVsFall": 6, "growthNext12Months": null},
+          {"name": "Pointy Toe Pumps", "fallVsFall": 9, "growthNext12Months": null},
+          {"name": "Round Toe Mary Janes", "fallVsFall": 1, "growthNext12Months": null},
+          {"name": "Off-Shoulder Dresses", "fallVsFall": 11, "growthNext12Months": null},
+          {"name": "Patent Leather", "fallVsFall": 19, "growthNext12Months": null},
+          {"name": "Red Maxi Dresses", "marketShare": 0.3, "annualGrowth": 4, "fallVsFall": 10},
+          {"name": "Matte Leather Mary Janes", "marketShare": 0.2, "annualGrowth": 8, "fallVsFall": 7}
+        ],
+        "rising_stars": [
+          {"name": "Midi Skirts", "fallVsFall": 4, "growthNext12Months": null},
+          {"name": "Red Pumps", "marketShare": 0.5, "annualGrowth": 17, "fallVsFall": 20},
+          {"name": "Marled Jumper", "marketShare": 0.2, "annualGrowth": 6, "fallVsFall": 37}
+        ],
+        "comebacks": [
+          {"name": "Snake", "fallVsFall": 40, "growthNext12Months": 38},
+          {"name": "Fitted Jackets", "fallVsFall": 11, "growthNext12Months": null},
+          {"name": "Leopard", "fallVsFall": 10, "growthNext12Months": null},
+          {"name": "Red Jumper", "marketShare": 0.2, "annualGrowth": 7, "fallVsFall": 34},
+          {"name": "Leather Jackets", "marketShare": 6.6, "annualGrowth": 9, "fallVsFall": 24},
+          {"name": "Marled T-Shirt", "marketShare": 0.2, "annualGrowth": 5, "fallVsFall": 3}
+        ],
+        "stable": [
+          {"name": "Vinyl", "fallVsFall": 1, "growthNext12Months": -0.8},
+          {"name": "Knitted Dress", "fallVsFall": 1, "growthNext12Months": null},
+          {"name": "Red Casual Pants", "marketShare": 0.5, "annualGrowth": -0.9, "fallVsFall": 0.8},
+          {"name": "Leather Shorts", "marketShare": 1.2, "annualGrowth": -0.4, "fallVsFall": -0.8}
+        ],
+        "watch_out": [
+          {"name": "Ovoid Coats", "fallVsFall": 4, "growthNext12Months": null},
+          {"name": "Matte Leather Double Strap Sandals", "marketShare": 0.8, "annualGrowth": -6, "fallVsFall": -12}
+        ],
+        "consistent_decliners": [
+          {"name": "Puff Sleeve Dresses", "fallVsFall": -18, "growthNext12Months": null},
+          {"name": "Leather Skirts", "fallVsFall": 5, "growthNext12Months": null},
+          {"name": "Red Boots", "marketShare": 0.6, "annualGrowth": -2, "fallVsFall": -1},
+          {"name": "Leather Pants", "marketShare": 1.9, "annualGrowth": -7, "fallVsFall": -3},
+          {"name": "Marled Sweatshirt", "marketShare": 0.1, "annualGrowth": -1, "fallVsFall": 12}
+        ],
+        "fluctuating": [
+          {"name": "Cable Knit", "fallVsFall": 56, "growthNext12Months": 13},
+          {"name": "Oversized Cardigans", "fallVsFall": 7, "growthNext12Months": null},
+          {"name": "Red Blouse", "marketShare": 0.08, "annualGrowth": 7, "fallVsFall": 14},
+          {"name": "Sky Blue Pants", "marketShare": 4.4, "annualGrowth": 0.3, "fallVsFall": 0.2}
+        ],
+        "falling_star": [
+          {"name": "Matte Leather Sock Boots", "marketShare": 0.7, "annualGrowth": -9, "fallVsFall": -4}
+        ]
+      },
+      "themes": [
+        {
+          "name": "Shadowed Elegance",
+          "description": "Boundaries as the Birthplace of Beauty",
+          "keyColors": ["Violet", "Black", "Metallic Tones"],
+          "keyFabrics": ["See Through", "Brocade", "Lustrous"],
+          "keyPrints": ["Floral", "Abstract"],
+          "keyShapes": ["Strapless Dresses", "Lavallière Collar Blouse", "Puff Sleeve Dresses"],
+          "keyAccessories": ["Headbands", "Pouch Bags", "Embellished Sneakers"],
+          "personas": ["The Misfit", "The Charmer", "The Diva"],
+          "brands": ["SUSAN FANG", "CECILIE BAHNSEN", "ANTONIO MARRAS", "VALENTINO", "ERDEM", "RICHARD QUINN"]
+        },
+        {
+          "name": "Heritage Reimagined",
+          "description": "A New Era of Riveting Refinement",
+          "keyColors": ["Burgundy", "Cream", "Charcoal Gray"],
+          "keyFabrics": ["Tweed", "Satin", "Cable Knit"],
+          "keyPrints": ["Plain", "Checked"],
+          "keyShapes": ["Midi Skirts", "Fitted Jackets", "Matching Sets"],
+          "keyAccessories": ["Top Handle Bags", "Pointy Toe Pumps", "Round Toe Mary Janes"],
+          "personas": ["The Misfit", "The Charmer", "The Diva"],
+          "brands": ["VERSACE", "N°21", "BOTTEGA VENETA", "MICHAEL KORS COLLECTION", "ERDEM", "BADGLEY MISCHKA"]
+        },
+        {
+          "name": "Refined Sanctuary",
+          "description": "Elevating Everyday Ease",
+          "keyColors": ["Red", "Mint Green", "Khaki"],
+          "keyFabrics": ["Crochet", "Butter Leather", "Mohair"],
+          "keyDesigns": ["Colorblock", "Padded"],
+          "keyShapes": ["Knitted Dress", "Oversized Cardigans", "Ovoid Coats"],
+          "keyAccessories": ["Maxi Scarves", "Fluffy Shoes", "Swimmer Hats"],
+          "personas": ["The Misfit", "The Charmer", "The Diva"],
+          "brands": ["SUNNEI", "DILARA FINDIKOGLU", "DRIES VAN NOTEN", "16 ARLINGTON", "DEL CORE", "GABRIELA HEARST"]
+        }
+      ],
+      "starTrends": [
+        {
+          "name": "Leopard",
+          "variation": 10,
+          "magnitude": "MEDIUM",
+          "behavior": "Come Back",
+          "segment": ["TRENDY", "MAINSTREAM"]
+        },
+        {
+          "name": "Leather Skirts",
+          "variation": 5,
+          "magnitude": "BIG",
+          "behavior": "Consistent Decliner",
+          "segment": ["TRENDY", "EDGY"]
+        },
+        {
+          "name": "Bodycon Mini Dresses",
+          "variation": -4,
+          "magnitude": "MASSIVE",
+          "behavior": null,
+          "segment": ["TRENDY", "EDGY"]
+        },
+        {
+          "name": "Off-Shoulder Dresses",
+          "variation": 11,
+          "magnitude": "MASSIVE",
+          "behavior": "Consistent Riser",
+          "segment": ["TRENDY", "EDGY"]
+        },
+        {
+          "name": "Patent Leather",
+          "variation": 19,
+          "magnitude": null,
+          "behavior": "Consistent Riser",
+          "segment": ["EDGY", "TRENDY"]
+        }
+      ],
+      "colorTrends": {
+        "Red": {
+          "behavior": [
+            {"name": "Red Pumps", "behavior": "Rising Star", "variation": 20, "marketShare": 0.5, "annualGrowth": 17},
+            {"name": "Red Maxi Dresses", "behavior": "Consistent Riser", "variation": 10, "marketShare": 0.3, "annualGrowth": 4},
+            {"name": "Red Jumper", "behavior": "Come Back", "variation": 34, "marketShare": 0.2, "annualGrowth": 7},
+            {"name": "Red Casual Pants", "behavior": "Stable", "variation": 0.8, "marketShare": 0.5, "annualGrowth": -0.9},
+            {"name": "Red Boots", "behavior": "Consistent Decliner", "variation": -1, "marketShare": 0.6, "annualGrowth": -2},
+            {"name": "Red Blouse", "behavior": "Fluctuating", "variation": 14, "marketShare": 0.08, "annualGrowth": 7}
+          ]
+        },
+        "Leather": {
+          "behavior": [
+            {"name": "Leather Jackets", "behavior": "Come Back", "variation": 24, "marketShare": 6.6, "annualGrowth": 9},
+            {"name": "Leather Shorts", "behavior": "Stable", "variation": -0.8, "marketShare": 1.2, "annualGrowth": -0.4},
+            {"name": "Leather Pants", "behavior": "Consistent Decliner", "variation": -3, "marketShare": 1.9, "annualGrowth": -7},
+            {"name": "Matte Leather Mary Janes", "behavior": "Consistent Riser", "variation": 7, "marketShare": 0.2, "annualGrowth": 8},
+            {"name": "Matte Leather Double Strap Sandals", "behavior": "Watch Out", "variation": -12, "marketShare": 0.8, "annualGrowth": -6},
+            {"name": "Matte Leather Sock Boots", "behavior": "Falling Star", "variation": -4, "marketShare": 0.7, "annualGrowth": -9}
+          ]
+        },
+        "Marled": {
+          "behavior": [
+            {"name": "Marled Jumper", "behavior": "Rising Star", "variation": 37, "marketShare": 0.2, "annualGrowth": 6},
+            {"name": "Marled T-Shirt", "behavior": "Come Back", "variation": 3, "marketShare": 0.2, "annualGrowth": 5},
+            {"name": "Marled Sweatshirt", "behavior": "Consistent Decliner", "variation": 12, "marketShare": 0.1, "annualGrowth": -1}
+          ]
+        }
+      },
+      "cityHighlights": [],
+      "mostPromisingTrends": [
+        "Red",
+        "Leather",
+        "Marled"
+      ]
+    }
+  }

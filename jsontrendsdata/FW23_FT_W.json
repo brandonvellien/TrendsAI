@@ -1,0 +1,141 @@
+{
+    "trends": {
+      "colors": [
+        {"name": "Black", "runwayShare": 46, "variation": 4, "magnitude": "MASSIVE"},
+        {"name": "White", "runwayShare": 10, "variation": 0, "magnitude": "MASSIVE"},
+        {"name": "Grey", "runwayShare": 11, "variation": 3, "magnitude": "MASSIVE"},
+        {"name": "Beige", "runwayShare": 6, "variation": -1, "magnitude": "BIG"},
+        {"name": "Brown", "runwayShare": 6, "variation": -1, "magnitude": "BIG"},
+        {"name": "Red", "runwayShare": 3, "variation": 4, "magnitude": "BIG"},
+        {"name": "Purple", "runwayShare": 0.2, "variation": 0, "magnitude": "MEDIUM"},
+        {"name": "Metallic", "runwayShare": 1, "variation": 14, "magnitude": "MEDIUM"},
+        {"name": "Yellow", "runwayShare": 0.5, "variation": -6, "magnitude": "MEDIUM"}
+      ],
+      "materials": [
+        {"name": "Leather", "runwayShare": 23, "variation": 14, "magnitude": "BIG"},
+        {"name": "Denim", "runwayShare": 35, "variation": 3, "magnitude": "MASSIVE"},
+        {"name": "See-Through", "runwayShare": 10, "variation": 2, "magnitude": "BIG"},
+        {"name": "Velvet", "runwayShare": 7, "variation": 4, "magnitude": "MEDIUM"},
+        {"name": "Tweed", "runwayShare": 1, "variation": 12, "magnitude": "SMALL"},
+        {"name": "Satin", "runwayShare": 5, "variation": -12, "magnitude": "BIG"},
+        {"name": "Muslin", "runwayShare": 5, "variation": null, "magnitude": null},
+        {"name": "Ribbed Knit", "runwayShare": 4, "variation": 8, "magnitude": "BIG"},
+        {"name": "Lace", "runwayShare": 5, "variation": -1, "magnitude": "BIG"},
+        {"name": "Beading", "runwayShare": 1, "variation": 17, "magnitude": "SMALL"},
+        {"name": "Tulle", "runwayShare": 1, "variation": -1, "magnitude": "MEDIUM"},
+        {"name": "Lustrous", "runwayShare": 1, "variation": 17, "magnitude": "SMALL"},
+        {"name": "Rainproof", "runwayShare": 3.5, "variation": 8, "magnitude": "MEDIUM"},
+        {"name": "Latex", "runwayShare": null, "variation": null, "magnitude": "BIG"}
+      ],
+      "patterns": [
+        {"name": "Plain", "runwayShare": 80, "variation": 0, "magnitude": "MASSIVE"},
+        {"name": "Floral", "runwayShare": 20, "variation": -6, "magnitude": "BIG"},
+        {"name": "Checked", "runwayShare": 20, "variation": -9, "magnitude": "BIG"},
+        {"name": "Pinstripes", "runwayShare": 25, "variation": 25, "magnitude": "MEDIUM"},
+        {"name": "Plaid", "runwayShare": 5, "variation": -3, "magnitude": "MEDIUM"},
+        {"name": "Checkerboard", "runwayShare": 2, "variation": -8, "magnitude": "SMALL"},
+        {"name": "Blurred Florals", "runwayShare": 4.5, "variation": -6, "magnitude": "BIG"},
+        {"name": "Polka Dots", "runwayShare": 3, "variation": 1, "magnitude": "BIG"},
+        {"name": "Stripes", "runwayShare": 20, "variation": 13, "magnitude": "BIG"}
+      ],
+      "silhouettes": [
+        {"name": "Midi Skirt", "runwayShare": 54, "variation": 1, "magnitude": "MASSIVE"},
+        {"name": "Blazer", "runwayShare": 25, "variation": null, "magnitude": "MASSIVE"},
+        {"name": "Maxi-Length Coat", "runwayShare": null, "variation": 3, "magnitude": "BIG"},
+        {"name": "Shirt Dress", "runwayShare": null, "variation": -6, "magnitude": "BIG"},
+        {"name": "Sweater Dress", "runwayShare": null, "variation": 2, "magnitude": "BIG"},
+        {"name": "Pleated Skirt", "runwayShare": null, "variation": 10, "magnitude": "MASSIVE"},
+        {"name": "Tuxedo Jacket", "runwayShare": null, "variation": 3, "magnitude": "MICRO"},
+        {"name": "Off The Shoulder", "runwayShare": null, "variation": 11, "magnitude": "MASSIVE"},
+        {"name": "Catsuit", "runwayShare": null, "variation": null, "magnitude": "BIG"},
+        {"name": "Asymmetric Neck Dress", "runwayShare": null, "variation": 2, "magnitude": "BIG"},
+        {"name": "Ball Gown", "runwayShare": null, "variation": -7, "magnitude": "MEDIUM"},
+        {"name": "Bustier Dress", "runwayShare": null, "variation": 5, "magnitude": "MASSIVE"},
+        {"name": "Fur Coat", "runwayShare": null, "variation": -3, "magnitude": "BIG"},
+        {"name": "Corset", "runwayShare": null, "variation": null, "magnitude": "BIG"},
+        {"name": "Cargo Pants", "runwayShare": 4.5, "variation": 7, "magnitude": "BIG"},
+        {"name": "Trench Coat", "runwayShare": 4, "variation": 3, "magnitude": "BIG"},
+        {"name": "Cold Shoulders", "runwayShare": null, "variation": null, "magnitude": null}
+      ],
+      "accessories": [
+        {"name": "Lace Tights", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Crescent Bags", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Lace-Up Boots", "runwayShare": null, "variation": -9, "magnitude": "BIG"},
+        {"name": "Mule Pumps", "runwayShare": null, "variation": 15, "magnitude": "MEDIUM"},
+        {"name": "Lamp Hats", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Asymmetrical Earrings", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Combat Boots", "runwayShare": null, "variation": -12, "magnitude": "BIG"},
+        {"name": "Ties", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Scarfs", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Platform Sandals", "runwayShare": null, "variation": 1, "magnitude": "BIG"},
+        {"name": "3D Flower", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Object-like Bags", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Gloves", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Head Accessories", "runwayShare": null, "variation": null, "magnitude": null}
+      ],
+      "streetStylePenetration": [
+        {"name": "Denim", "penetrationRate": 35, "variation": 3, "magnitude": "MASSIVE"},
+        {"name": "Sky Blue", "penetrationRate": 5.5, "variation": 2, "magnitude": "BIG"},
+        {"name": "Floral", "penetrationRate": 14, "variation": -9, "magnitude": "BIG"}
+      ],
+      "trendBehavior": {
+        "consistent_risers": [
+          "Maxi-Length Coat", 
+          "Patent Leather Pump", 
+          "Plain Mini Skirt", 
+          "Vanilla Yellow Shoe", 
+          "Bustier Dress", 
+          "Navy"
+        ],
+        "comebacks": [
+          "Off The Shoulder", 
+          "Leather Jacket", 
+          "Plain Woven Top", 
+          "Short Straight Fur Coat", 
+          "Fur Coat", 
+          "Mule Pumps", 
+          "Lustrous"
+        ],
+        "fluctuating": [
+          "Midi Skirt", 
+          "Sweater Dress", 
+          "Tuxedo Jacket", 
+          "Pleated Skirt", 
+          "Leather Skirt", 
+          "Plain Midi Dress", 
+          "Yellow Sandals", 
+          "Red Jacket", 
+          "Platform Sandals", 
+          "Ball Gown"
+        ],
+        "stable": [
+          "Leather Coat", 
+          "Plain Jumper", 
+          "Vanilla Yellow Top"
+        ],
+        "watch_out": [
+          "Leather Formal Pant", 
+          "Plain Cardigan", 
+          "Yellow Dresses", 
+          "Red Skirt"
+        ],
+        "consistent_decliners": [
+          "Lace-Up Boots", 
+          "Combat Boots", 
+          "Shirt Dress", 
+          "Matte Leather Boots", 
+          "Plain Denim Pants", 
+          "Yellow T-Shirt", 
+          "Red Coats", 
+          "Fur Top", 
+          "Crimson Red"
+        ]
+      },
+      "themes": [
+        "Alluring Rebellion",
+        "Time Capsule",
+        "Elevated Uniform",
+        "Baroccore"
+      ]
+    }
+  }

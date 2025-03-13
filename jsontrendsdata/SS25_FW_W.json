@@ -1,0 +1,128 @@
+{
+    "trends": {
+      "colors": [
+        {"name": "Brown", "runwayShare": 17, "variation": null, "magnitude": "BIG"},
+        {"name": "White", "runwayShare": 33, "variation": null, "magnitude": "MASSIVE"},
+        {"name": "Cream", "runwayShare": 6, "variation": 2, "magnitude": "BIG"},
+        {"name": "Sky Blue", "runwayShare": 2, "variation": null, "magnitude": "MEDIUM"},
+        {"name": "Gold", "runwayShare": 2, "variation": -2, "magnitude": "MEDIUM"},
+        {"name": "Scarlet Red", "runwayShare": 8, "variation": -6, "magnitude": "BIG"},
+        {"name": "Cinnamon", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Black", "runwayShare": 63, "variation": -3, "magnitude": "MASSIVE"},
+        {"name": "Taupe", "runwayShare": 11, "variation": 2, "magnitude": "BIG"},
+        {"name": "Khaki", "runwayShare": 18, "variation": 1, "magnitude": "BIG"},
+        {"name": "Vanilla Yellow", "runwayShare": 1, "variation": -4, "magnitude": "SMALL"},
+        {"name": "Baby Blue", "runwayShare": 3, "variation": 2, "magnitude": "BIG"},
+        {"name": "Blush Pink", "runwayShare": 2, "variation": 5, "magnitude": "BIG"},
+        {"name": "Off-White", "runwayShare": 2, "variation": 2, "magnitude": "BIG"},
+        {"name": "Pastels", "runwayShare": 10, "variation": 4, "magnitude": "BIG"}
+      ],
+      "materials": [
+        {"name": "See-Through", "runwayShare": 6, "variation": 7, "magnitude": "BIG"},
+        {"name": "Lace", "runwayShare": 3, "variation": 6, "magnitude": "BIG"},
+        {"name": "Leather", "runwayShare": 9, "variation": -6, "magnitude": "BIG"},
+        {"name": "Leather Outerwear", "runwayShare": 7, "variation": null, "magnitude": null},
+        {"name": "Satin", "runwayShare": 3, "variation": 13, "magnitude": "BIG"},
+        {"name": "Metallic Tones", "runwayShare": 1, "variation": 9, "magnitude": "MEDIUM"},
+        {"name": "Tasseled Sequins", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Sheer", "runwayShare": 6, "variation": null, "magnitude": "BIG"},
+        {"name": "Tulle", "runwayShare": 0.3, "variation": 9, "magnitude": "MEDIUM"},
+        {"name": "Tweed", "runwayShare": 0.1, "variation": -1, "magnitude": "SMALL"},
+        {"name": "Poplin", "runwayShare": 1, "variation": -5, "magnitude": "MEDIUM"},
+        {"name": "Rainproof", "runwayShare": 1, "variation": -4, "magnitude": "BIG"},
+        {"name": "Denim", "runwayShare": 4, "variation": -4, "magnitude": "MASSIVE"},
+        {"name": "Flou Fabrics", "runwayShare": null, "variation": null, "magnitude": null}
+      ],
+      "patterns": [
+        {"name": "Animal Prints", "runwayShare": 1, "variation": -13, "magnitude": "BIG"},
+        {"name": "Patterned Dresses", "runwayShare": 14, "variation": null, "magnitude": null},
+        {"name": "Polka Dots", "runwayShare": null, "variation": -7, "magnitude": "MEDIUM"}
+      ],
+      "silhouettes": [
+        {"name": "Ruffled Skirts", "runwayShare": 7, "variation": null, "magnitude": null},
+        {"name": "Pleated Skirts", "runwayShare": 13, "variation": null, "magnitude": null},
+        {"name": "Deep V-Neck Dresses", "runwayShare": null, "variation": -5, "magnitude": "MASSIVE"},
+        {"name": "Asymmetrical Skirts", "runwayShare": null, "variation": 1, "magnitude": "MEDIUM"},
+        {"name": "Belly Button Cut Outs", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Babydoll Dresses", "runwayShare": null, "variation": 3, "magnitude": "SMALL"},
+        {"name": "Puffy Sleeve Blouses", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Capri Pants", "runwayShare": null, "variation": -8, "magnitude": "MEDIUM"},
+        {"name": "Oversized Jackets", "runwayShare": null, "variation": 11, "magnitude": "BIG"},
+        {"name": "Midi Skirts", "runwayShare": null, "variation": 5, "magnitude": "BIG"},
+        {"name": "Wide-leg Pants", "runwayShare": null, "variation": 4, "magnitude": "BIG"},
+        {"name": "Short Sleeve Shirts", "runwayShare": null, "variation": 10, "magnitude": "SMALL"},
+        {"name": "Mini Skirts", "runwayShare": null, "variation": -7, "magnitude": "MASSIVE"},
+        {"name": "Formal Shorts", "runwayShare": null, "variation": 14, "magnitude": "BIG"},
+        {"name": "Micro Shorts", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Corsets", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Polo Shirts", "runwayShare": null, "variation": 1, "magnitude": "MEDIUM"}
+      ],
+      "accessories": [
+        {"name": "Jeweled Belts", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Organic Clutches", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "T-Bar Sandals", "runwayShare": null, "variation": -23, "magnitude": "BIG"},
+        {"name": "Ribbon Sandals", "runwayShare": null, "variation": -3, "magnitude": "MICRO"},
+        {"name": "3D Floral Bags", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Veils", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Chain Bracelet", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Top Handle Bags", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Snip Toes", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Ties", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Socks", "runwayShare": null, "variation": null, "magnitude": null},
+        {"name": "Thin Belts", "runwayShare": null, "variation": null, "magnitude": null}
+      ],
+      "streetStylePenetration": [
+        {"name": "Animal Prints", "penetrationRate": 1, "variation": -13, "magnitude": "BIG"},
+        {"name": "Leather", "penetrationRate": 9, "variation": -6, "magnitude": "BIG"},
+        {"name": "Pastels", "penetrationRate": 10, "variation": 4, "magnitude": "BIG"}
+      ],
+      "trendBehavior": {
+        "consistent_risers": [
+          "Oversized Jackets",
+          "Midi Skirts",
+          "Wide-leg Pants",
+          "Formal Shorts",
+          "Sky Blue Skirts",
+          "Metallic Tones Tops",
+          "Fine Lace Tops"
+        ],
+        "comebacks": [
+          "Lace Dresses",
+          "Metallic Pants"
+        ],
+        "fluctuating": [
+          "Asymmetrical Skirts",
+          "Babydoll Dresses",
+          "Short Sleeve Shirts",
+          "Sky Blue Pants",
+          "Metallic Tones Skirts",
+          "Lace Tops"
+        ],
+        "stable": [
+          "Sky Blue Shorts"
+        ],
+        "watch_out": [
+          "Deep V-Neck Dresses",
+          "Mini Skirts",
+          "Sky Blue Shoes"
+        ],
+        "consistent_decliners": [
+          "T-Bar Sandals",
+          "Ribbon Sandals",
+          "Capri Pants",
+          "Sky Blue Court Sneakers",
+          "Lace Blouse"
+        ],
+        "rising_stars": [
+          "Metallic Pants",
+          "Lace Skirts"
+        ]
+      },
+      "themes": [
+        "Mystique Muse",
+        "Dollhouse Dream",
+        "Bold Blends",
+        "Desk To Date"
+      ]
+    }
+  }
