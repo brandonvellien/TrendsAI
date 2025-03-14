@@ -41,7 +41,7 @@ projet-prediction-tendances/
 
 Un outil sophistiqué pour analyser les tendances de la mode, les couleurs et les types de vêtements à partir de collections d'images en utilisant la vision par ordinateur et l'IA.
 
-![Analyse de Tendances Mode](https://via.placeholder.com/800x400?text=Analyse+Tendances+Mode](https://github.com/brandonvellien/TrendsAI/blob/main/clipmodel/fashion_trends_overview.png)
+![Analyse de Tendances Mode](https://github.com/brandonvellien/TrendsAI/blob/main/clipmodel/fashion_trends_overview.png)
 
 ## Aperçu
 
